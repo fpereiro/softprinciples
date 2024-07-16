@@ -8,17 +8,17 @@ These principles can also be expressed as hypothesis. Most of what is written he
 
 ## tl;dr
 
-Principle/hypothesis 1: **software delivers value only by communicating, transforming and storing data**.
-Principle/hypothesis 2: **The absolute goodness of an engineering artifact consists of its reliability; reliability is four things: correctness, security, performance and durability**.
-Principle/hypothesis 3: **In the absence of a magic wand that creates it, an engineering product must be specified and constructed**.
-Principle/hypothesis 4: **The large variability in the outcomes of a software project, and the fact that even good software has to be rebuilt and extended, makes the *how* of building software critical for the success of any software project. Said variability makes it impossible to simply throw a linear amount of money at the problem.**
-Principle/hypothesis 5: **The key to specifying and constructing a software system is that those who specify and construct it must understand the system**.
-Principle/hypothesis 6: **The key to understanding a software system is to minimize its complexity -- which is the same as maximizing its simplicity**.
-Principle/hypothesis 7: **The sequence of software development (whether on a new or existing system) can be summarized as a linear sequence of Understand, Run, Test, Deploy, Log, Change. The writing of the system emerges from its understanding.**
-Principle/hypothesis 8: **Keep the URTDLC short, but not arbitrarly short, or bound to an inflexible amount of time.**
-Principle/hypothesis 9: **Overengineering is simply bad engineering. Avoid it like the plague. Beware of devops-induced complexity.**
-Principle/hypothesis 10: **Auto-activation allows to develop software systems that converge towards perfection, through the simple practice of detecting, and collecting errors, as well as targeting their root causes.**
-Principle/hypothesis 11: **A software system runs chiefly on morale; the three sources of pure engineering morale are ownership, relative ease and inner pride.**
+- Principle/hypothesis 1: **software delivers value only by communicating, transforming and storing data**.
+- Principle/hypothesis 2: **The absolute goodness of an engineering artifact consists of its reliability; reliability is four things: correctness, security, performance and durability**.
+- Principle/hypothesis 3: **In the absence of a magic wand that creates it, an engineering product must be specified and constructed**.
+- Principle/hypothesis 4: **The large variability in the outcomes of a software project, and the fact that even good software has to be rebuilt and extended, makes the *how* of building software critical for the success of any software project. Said variability makes it impossible to simply throw a linear amount of money at the problem.**
+- Principle/hypothesis 5: **The key to specifying and constructing a software system is that those who specify and construct it must understand the system**.
+- Principle/hypothesis 6: **The key to understanding a software system is to minimize its complexity -- which is the same as maximizing its simplicity**.
+- Principle/hypothesis 7: **The sequence of software development (whether on a new or existing system) can be summarized as a linear sequence of Understand, Run, Test, Deploy, Log, Change. The writing of the system emerges from its understanding.**
+- Principle/hypothesis 8: **Keep the URTDLC short, but not arbitrarly short, or bound to an inflexible amount of time.**
+- Principle/hypothesis 9: **Overengineering is simply bad engineering. Avoid it like the plague. Beware of devops-induced complexity.**
+- Principle/hypothesis 10: **Auto-activation allows to develop software systems that converge towards perfection, through the simple practice of detecting, and collecting errors, as well as targeting their root causes.**
+- Principle/hypothesis 11: **A software system runs chiefly on morale; the three sources of pure engineering morale are ownership, relative ease and inner pride.**
 
 ## What does software do?
 
